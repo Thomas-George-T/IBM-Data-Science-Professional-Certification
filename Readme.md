@@ -1,3 +1,4 @@
 
 - [x] Intro to Data Science
-- [ ] Open source tools for Data science
+- [x] Open source tools for Data science
+- [ ] Data Science Methodologies
