@@ -1,6 +1,6 @@
 
 |               Course               |   Target Date  |    Status   |
-|:----------------------------------:|:--------------:|:-----------:|
+|:-----------------------------------|:--------------:|:-----------:|
 | What is Data Science?              |                |  Completed  |
 | Tools for Data Science             |                |  Completed  |
 | Data Science Methodology           |  24th May 2020 | In Progress |
