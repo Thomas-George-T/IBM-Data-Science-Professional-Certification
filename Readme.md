@@ -1,3 +1,4 @@
+# Learning
 
 |               Course               |   Target Date  |    Status   |
 |:-----------------------------------|:--------------:|:-----------:|
@@ -10,3 +11,12 @@
 | Data Visualization with Python     | 22nd June 2020 |             |
 | Machine Learning with Python       |  1st July 2020 |             |
 | Applied Data Science Capstone      | 15th July 2020 |             |
+
+# Projects
+
+| Project        | Target Date |
+|----------------|:-----------:|
+| Classification |  19th July  |
+| Regression     |  24th July  |
+| Clustering     |  25th July  |
+| NLP            |  26th July  |
