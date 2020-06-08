@@ -12,7 +12,7 @@ __3.Display a dataframe where unemployment was greater than 8.5% . Take a screen
 
 ![Unemployment > 8.5](unemployment_greater_than_8_point_five.jpg)
 
-__4.Us the function make_dashboard to make a dashboard, then take a screen shot.__
+__4.Use the function make_dashboard to make a dashboard, then take a screen shot.__
 
 ![make_dashboard](dashboard.jpg)
 
