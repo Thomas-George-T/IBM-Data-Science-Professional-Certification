@@ -30,19 +30,24 @@ Data Understanding and Preparation
 Modeling and Evaluation
 You can always refer to the labs as a reference with describing how you would complete each stage for your problem.
 
-**Ans**
+**Ans:**
 
-Analytic Approach: 
+**Analytic Approach:**
+
 A Yes/No answer can be applied to this problem so we can use a classification model.
 
-Data Requirements: 
+**Data Requirements:**
+
 To create the model, we will require information regarding the sender including email address, domain, subject, language ,if the email has an attachment or not, and body of the email to see if it contains a list (presence of a list could help classify the email as an order).
 
-Data Collection: 
+**Data Collection:**
+
 We can gather all these data from email accounts from various email inboxes (Gmail, Hotmail, yahoo, outlook etc.). We can further merge the emails from the various inboxes to create a good dataset. Descriptive statistics & visualizations can be applied to the data set to assess the content quality and if we have the required information.
 
-Data Understanding and Preparation:
+**Data Understanding and Preparation:**
+
 We should remove the redundant data from our dataset. This could be two copies of the same email sent to different inboxes. Since we are working with text, we need to perform text analysis. We should ensure proper groupings to help classify the emails properly. These groupings should be done based on certain keywords present in the subject or content of the email.
 
-Modeling and Evaluation:
+**Modeling and Evaluation:**
+
 We create the classification model. We evaluate the results of the model and see how much is classified correctly or incorrectly. Using this feedback we can tweak the model to add parameters and perform necessary changes to ensure that we're getting the intended results.
