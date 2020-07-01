@@ -1,3 +1,7 @@
+# Basic and Specialized Visualization Tools
+
+**Instructor: Alex Aklson**
+
 ## Key Concepts
 
 Create with Matplotlib
