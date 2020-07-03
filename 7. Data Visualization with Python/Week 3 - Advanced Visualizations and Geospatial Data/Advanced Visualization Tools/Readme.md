@@ -11,7 +11,7 @@ Python package for generating `waffle charts` called [PyWaffle](https://github.c
 
 ## Word Clouds
 - A word cloud is a depiction of the frequency of different words in some textual data.
-- Open source package
+- Python package by Andreas Mueller
 
 ![Waffle Chart](word_cloud.jpg)
 
