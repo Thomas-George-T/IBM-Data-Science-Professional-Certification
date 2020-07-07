@@ -1,0 +1,1 @@
+[Rename a column in Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)
