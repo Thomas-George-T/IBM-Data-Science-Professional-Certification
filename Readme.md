@@ -1,5 +1,6 @@
 # IBM Data Science Professional Certificate
 
+
 ## Learning
 
 |               Course               |   Target Date  |    Status   | Completed Date | Comments    |
@@ -14,6 +15,8 @@
 | Machine Learning with Python       |  25th July 2020 |             |             |
 | Applied Data Science Capstone      | 15th August 2020 |             |             |
 
+
+
 ## Projects
 
 | Project        | Target Date |
@@ -23,16 +26,18 @@
 | Clustering     |  25th July  |
 | NLP            |  19th July  |
 
+
+
 ## Helpful Resources
 
-### Data Science Toolkit
-- [IBM Developer Skills Network: Data Science toolkit including JupyterLab, JupterNotebook, Rstudio etc in your browser](https://labs.cognitiveclass.ai/login?logout=true)
-- [Google Colab: Practice Python in your browser and execute Machine learning Models with Google Colab](https://colab.research.google.com)
+#### Data Science Toolkit
+- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Rstudio etc in your browser
+- [Google Colab](https://colab.research.google.com): Practice Python in your browser and execute Machine learning Models with Google Colab
 
-### Learn more
+#### Useful resources
 - [End to End Machine learning library](https://e2eml.school/blog.html#skills)
 - [Rename a column in Pandas in Python](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)
 
-### Building Portfolio and Real world Experience
+#### Building Portfolio and Real world Experience
 - [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
 - [Getting real life Data science experience](https://towardsdatascience.com/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12)
