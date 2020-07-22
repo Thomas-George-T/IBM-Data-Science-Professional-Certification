@@ -1,5 +1,6 @@
 # IBM Data Science Professional Certificate
 
+<br>
 
 ## Learning
 
@@ -15,7 +16,7 @@
 | Machine Learning with Python       |  25th July 2020 |             |             |
 | Applied Data Science Capstone      | 15th August 2020 |             |             |
 
-
+<br>
 
 ## Projects
 
@@ -26,12 +27,12 @@
 | Clustering     |  25th July  |
 | NLP            |  19th July  |
 
-
+<br>
 
 ## Helpful Resources
 
 #### Data Science Toolkit
-- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Rstudio etc in your browser
+- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, Rstudio etc in your browser
 - [Google Colab](https://colab.research.google.com): Practice Python in your browser and execute Machine learning Models with Google Colab
 
 #### Useful resources
