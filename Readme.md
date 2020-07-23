@@ -2,6 +2,15 @@
 
 <br>
 
+<p align="center">
+ <img src="ibm.svg" title="IBM logo" alt = "IBM logo" />
+</p>
+
+
+
+
+
+
 ## Learning
 
 |               Course               |   Target Date  |    Status   | Completed Date | Comments    |
