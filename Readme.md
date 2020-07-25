@@ -44,9 +44,14 @@
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, Rstudio etc in your browser
 - [Google Colab](https://colab.research.google.com): Practice Python in your browser and execute Machine learning Models with Google Colab
 
+#### Frequently used API's
+
+- [Check for NaN in Pandas DataFrame](https://datatofish.com/check-nan-pandas-dataframe/)
+- [Pandas get dummies or One Hot encoding](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
+- [Rename a column in Pandas in Python](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)
+
 #### Useful resources
 - [End to End Machine learning library](https://e2eml.school/blog.html#skills)
-- [Rename a column in Pandas in Python](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)
 
 #### Building Portfolio and Real world Experience
 - [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
