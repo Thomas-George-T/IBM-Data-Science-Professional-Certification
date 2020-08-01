@@ -7,10 +7,6 @@
 </p>
 
 
-
-
-
-
 ## Learning
 
 |               Course               |   Target Date  |    Status   | Completed Date | Comments    |
@@ -22,21 +18,11 @@
 | Databases and SQL for Data Science |  8th June 2020 | Completed | 11th June 2020 | Will revisit optional content at a later point of time.|
 | Data Analysis with Python          | 15th June 2020 |  Completed | 20th June 2020 |  Revisit Week 4 & 5 Important concepts |
 | Data Visualization with Python     | 22nd June 2020 | Completed | 7th July 2020 | |
-| Machine Learning with Python       |  25th July 2020 |             |             |
+| Machine Learning with Python       |  25th July 2020 | Completed | 1st Aug 2020 | |
 | Applied Data Science Capstone      | 15th August 2020 |             |             |
 
 <br>
 
-## Projects
-
-| Project        | Target Date |
-|----------------|:-----------:|
-| Classification |  26th July  |
-| Regression     |  24th July  |
-| Clustering     |  25th July  |
-| NLP            |  19th July  |
-
-<br>
 
 ## Helpful Resources
 
@@ -44,7 +30,7 @@
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, Rstudio etc in your browser
 - [Google Colab](https://colab.research.google.com): Practice Python in your browser and execute Machine learning Models with Google Colab
 
-#### Frequently used API's
+#### Frequently used functionalities
 
 - [Check for NaN in Pandas DataFrame](https://datatofish.com/check-nan-pandas-dataframe/)
 - [Pandas get dummies or One Hot encoding](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
