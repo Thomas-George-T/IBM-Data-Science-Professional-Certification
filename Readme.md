@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+
 # IBM Data Science Professional Certificate
 
 <br>
