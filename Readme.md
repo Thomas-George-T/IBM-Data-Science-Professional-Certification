@@ -45,7 +45,7 @@ Read more below:
 |               Course               |   Target Date  |    Status   | Completed Date | Comments    |
 |:-----------------------------------|:--------------:|:-----------:|:------------:|:--------|
 | What is Data Science?              |                |  Completed  |             |
-| Tools for Data Science             |                |  **Retake** | |Instructors redid this course |
+| Tools for Data Science             |  3rd August 2020 |  Completed | | Redid the updated Course |
 | Data Science Methodology           |  24th May 2020 |  Completed  | 26th May 2020 | |
 | Python for Data Science and AI     |  1st June 2020 | Completed  | 8th June 2020 | |
 | Databases and SQL for Data Science |  8th June 2020 | Completed | 11th June 2020 | Will revisit optional content at a later point of time.|
