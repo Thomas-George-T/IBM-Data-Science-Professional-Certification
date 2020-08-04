@@ -1,4 +1,4 @@
-# Week 1
+# Introduction
 
 ## Key Concepts
 - Learn about the problem that you will be working on in this capstone course
