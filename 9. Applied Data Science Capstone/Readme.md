@@ -1,10 +1,11 @@
 # Applied Data Science Capstone
 
+<br>
 <p align="center">
-    <img src="ibm.svg" title="IBM logo" alt = "IBM logo" />
+    <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg?token=AE7CYZFATTHTAOSKTNM2R7S7FJRRO" title="IBM logo" alt = "IBM logo" />
 </p>
 
-**Instructor:Alex Aklson**
+**Instructor: Alex Aklson**
 
 Link to course: https://www.coursera.org/learn/applied-data-science-capstone/home/welcome
 
