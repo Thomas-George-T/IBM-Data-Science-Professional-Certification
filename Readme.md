@@ -45,7 +45,7 @@ Read more below:
 ## Learning
 
 |               Course               |   Target Date  |    Status   | Completed Date | Comments    |
-|:-----------------------------------|:--------------:|:-----------:|:------------:|:--------|
+|:-----------------------------------|:---------------|:-----------:|:-------------|:--------|
 | What is Data Science?              |                |  Completed  |             |
 | Tools for Data Science             |  3rd August 2020 |  Completed | | Redid the updated Course |
 | Data Science Methodology           |  24th May 2020 |  Completed  | 26th May 2020 | |
@@ -62,9 +62,9 @@ Read more below:
 ## Helpful Resources
 
 #### Data Science Toolkit
-- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc in your browser
-- [Google Colab](https://colab.research.google.com): Practice Python in your browser and execute Machine learning Models with Google Colab
-- [Online Notebook viewer](https://nbviewer.jupyter.org)
+- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
+- [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
+- [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
 
 #### Frequently used functionalities
 
@@ -81,7 +81,7 @@ Read more below:
 - [End to End Machine learning library](https://e2eml.school/blog.html#skills)
 - [Beginning with Exploratory data Analysis (EDA)](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
 - [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
-- [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)1
+- [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)
 
 
 #### Building Portfolio and Real world Experience
