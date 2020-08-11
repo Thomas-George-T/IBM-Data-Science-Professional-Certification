@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
- <img src="ibm.svg" title="IBM logo" alt = "IBM logo" />
+ <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
 
 ## About this Professional Certificate

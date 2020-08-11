@@ -1,7 +1,7 @@
 # Tools for Data Science
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg?token=AE7CYZCY3KCQGSBUMRLOAHK7EW7SE" title="IBM" alt="IBM" />
+	<img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM" alt="IBM" />
 </p>
 
 **Instructors: Romeo Kienzler, Svetlana Levitan**
