@@ -1,9 +1,9 @@
-# Data Science Final Assignment: Emails
+# Data Science Methodology Final Assignment: Emails
 
 ### Q1. Which topic did you choose to apply the data science methodology to? 2 marks)
 
 **Ans:**
-The topic that I have chosen to apply data science methodology to is Emails. I believe by automatically classifying emails, productivity can be increased drastically.
+The topic that I have chosen to apply data science methodology to is **Emails**. I believe by automatically classifying emails, productivity can be increased drastically.
 
 
 Next, you will play the role of the client and the data scientist.
@@ -23,31 +23,32 @@ Our Question would be: "Is it possible to automatically determine the type/categ
 
 ### Q3. Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. **(5 marks):**
 
-Analytic Approach
-Data Requirements
-Data Collection
-Data Understanding and Preparation
-Modeling and Evaluation
+1. Analytic Approach
+2. Data Requirements
+3. Data Collection
+4. Data Understanding and Preparation
+5. Modeling and Evaluation
+
 You can always refer to the labs as a reference with describing how you would complete each stage for your problem.
 
 **Ans:**
 
-**Analytic Approach:**
+1. **Analytic Approach:**
 
 A Yes/No answer can be applied to this problem so we can use a classification model.
 
-**Data Requirements:**
+2. **Data Requirements:**
 
 To create the model, we will require information regarding the sender including email address, domain, subject, language ,if the email has an attachment or not, and body of the email to see if it contains a list (presence of a list could help classify the email as an order).
 
-**Data Collection:**
+3. **Data Collection:**
 
 We can gather all these data from email accounts from various email inboxes (Gmail, Hotmail, yahoo, outlook etc.). We can further merge the emails from the various inboxes to create a good dataset. Descriptive statistics & visualizations can be applied to the data set to assess the content quality and if we have the required information.
 
-**Data Understanding and Preparation:**
+4. **Data Understanding and Preparation:**
 
 We should remove the redundant data from our dataset. This could be two copies of the same email sent to different inboxes. Since we are working with text, we need to perform text analysis. We should ensure proper groupings to help classify the emails properly. These groupings should be done based on certain keywords present in the subject or content of the email.
 
-**Modeling and Evaluation:**
+5. **Modeling and Evaluation:**
 
 We create the classification model. We evaluate the results of the model and see how much is classified correctly or incorrectly. Using this feedback we can tweak the model to add parameters and perform necessary changes to ensure that we're getting the intended results.
