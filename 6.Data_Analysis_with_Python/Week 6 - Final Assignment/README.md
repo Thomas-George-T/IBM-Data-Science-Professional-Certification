@@ -1,3 +1,9 @@
+# Final Assignment
+
+## Key Concepts
+- Create a Jupyter notebook
+- Housing price data
+
 # Peer-graded Assignment: House Sales in King County, USA
 
 

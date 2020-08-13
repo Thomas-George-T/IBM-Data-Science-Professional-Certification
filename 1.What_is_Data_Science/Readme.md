@@ -6,6 +6,8 @@
 
 **Instructors: Alex Aklson & Polong Lin**
 
+Course Link : [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
+
 ## Course Syllabus
 
 ### Defining Data Science and What Data Scientists Do

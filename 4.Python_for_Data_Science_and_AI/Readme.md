@@ -6,6 +6,8 @@
 
 **Instructors: Joseph Santarcangelo**
 
+Course Link: [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+
 ## About this Course
 
 This introduction to Python will kickstart your learning of **Python for data science**, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.

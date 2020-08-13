@@ -6,6 +6,8 @@
 
 **Instructors: Alex Aklson & Polong Lin**
 
+Course link: [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+
 ## Syllabus
 
 ### Module 1: From Problem to Approach and from Requirements to Collection
