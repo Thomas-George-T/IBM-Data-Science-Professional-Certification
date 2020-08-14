@@ -6,7 +6,7 @@
 
 **Instructors: SAEED AGHABOZORGI, Joseph Santarcangelo**
 
-**Course link:** [Machine learning with python](https://www.coursera.org/learn/machine-learning-with-python/)
+**Course link:** [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/)
 
 ## Program Overview
 - Introduction to Machine Learning

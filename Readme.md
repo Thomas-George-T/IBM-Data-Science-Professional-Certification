@@ -42,19 +42,19 @@ Read more below:
 - Rav Ahuja
 - SAEED AGHABOZORGI
 
-## Learning
+## Specialization Overview
 
-|               Course               |   Target Date  |    Status   | Completed Date | Comments    |
-|:-----------------------------------|:--------------:|:-----------:|:------------:|:--------|
-| What is Data Science?              |                |  Completed  |             |
-| Tools for Data Science             |  3rd August 2020 |  Completed | | Redid the updated Course |
-| Data Science Methodology           |  24th May 2020 |  Completed  | 26th May 2020 | |
-| Python for Data Science and AI     |  1st June 2020 | Completed  | 8th June 2020 | |
-| Databases and SQL for Data Science |  8th June 2020 | Completed | 11th June 2020 | Will revisit optional content at a later point of time.|
-| Data Analysis with Python          | 15th June 2020 |  Completed | 20th June 2020 |  Revisit Week 4 & 5 Important concepts |
-| Data Visualization with Python     | 22nd June 2020 | Completed | 7th July 2020 | |
-| Machine Learning with Python       |  25th July 2020 | Completed | 1st Aug 2020 | |
-| Applied Data Science Capstone      | 15th August 2020 |             |             |
+| Sr.No|               Course               			 							|  Status   | Comments							 |
+|:----:|:---------------------------------------------------------------------------|:---------:|:-----------------------------------|
+| 1.   | [What is Data Science?](1.What_is_Data_Science) 							| Completed |		  							 |
+| 2.   | [Tools for Data Science](2.Tools_for_Data_Science)							| Completed | 		  							 |
+| 3.   | [Data Science Methodology](3.Data_Science_Methodology) 					| Completed | 		  							 |
+| 4.   | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)     	| Completed | 		  							 |
+| 5.   | [Databases and SQL for Data Science](5.Databases_and_SQL_for_Data_Science) | Completed | Optional content are important 	 |
+| 6.   | [Data Analysis with Python](6.Data_Analysis_with_Python)          			| Completed | Week 4 & 5 have Important concepts |
+| 7.   | [Data Visualization with Python](7.Data_Visualization_with_Python)    		| Completed | 									 |
+| 8.   | [Machine Learning with Python](8.Machine_Learning_with_Python)       		| Completed | 									 |
+| 9.   | [Applied Data Science Capstone](9.Applied_Data_Science_Capstone)      		| WIP       | Aiming to finish by the 20th 		 |
 
 <br>
 
@@ -66,7 +66,7 @@ Read more below:
 - [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
 - [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
 
-#### Frequently used functionalities
+#### Useful Functions
 
 - [Check for NaN in Pandas DataFrame](https://datatofish.com/check-nan-pandas-dataframe/)
 - [Pandas get dummies or One Hot encoding](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
@@ -75,9 +75,9 @@ Read more below:
 - [RStudio](https://cran.rstudio.com)
 - [RStudio package: Shiny](https://shiny.rstudio.com/)
 - [RStudio package: leaflet](https://rstudio.github.io/leaflet/)
+- [Importing JSON and HTML into pandas](https://www.datacamp.com/community/tutorials/importing-data-into-pandas)
 
-
-#### Useful resources
+#### Useful Resources
 - [End to End Machine learning library](https://e2eml.school/blog.html#skills)
 - [Beginning with Exploratory data Analysis (EDA)](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
 - [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
