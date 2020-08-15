@@ -65,7 +65,7 @@ Read more below:
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
 - [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
 - [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
-- [Foursquare API](https://developer.foursquare.com) : Foursquare API developer portal to get credentials
+- [Foursquare API](https://developer.foursquare.com) : Foursquare API developer credentials portal
 
 #### Useful Functions
 
