@@ -1,8 +1,12 @@
 # Data Analysis with Python
 
+<br>
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM" alt="IBM" />
 </p>
+
+<br>
 
 **Instructors: Joseph Santarcangelo**
 

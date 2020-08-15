@@ -1,8 +1,12 @@
 # What is Data Science?
 
+<br>
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg?" title="IBM logo" alt = "IBM logo" />
 </p>
+
+<br>
 
 **Instructors: Alex Aklson & Polong Lin**
 
