@@ -44,17 +44,17 @@ Read more below:
 
 ## Specialization Overview
 
-| Sr.No|               Course               			 							|  Status   | Comments							 |
-|:----:|:---------------------------------------------------------------------------|:---------:|:-----------------------------------|
-| 1.   | [What is Data Science?](1.What_is_Data_Science) 							| Completed |		  							 |
-| 2.   | [Tools for Data Science](2.Tools_for_Data_Science)							| Completed | 		  							 |
-| 3.   | [Data Science Methodology](3.Data_Science_Methodology) 					| Completed | 		  							 |
-| 4.   | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)     	| Completed | 		  							 |
-| 5.   | [Databases and SQL for Data Science](5.Databases_and_SQL_for_Data_Science) | Completed | Optional content are important 	 |
-| 6.   | [Data Analysis with Python](6.Data_Analysis_with_Python)          			| Completed | Week 4 & 5 have Important concepts |
-| 7.   | [Data Visualization with Python](7.Data_Visualization_with_Python)    		| Completed | 									 |
-| 8.   | [Machine Learning with Python](8.Machine_Learning_with_Python)       		| Completed | 									 |
-| 9.   | [Applied Data Science Capstone](9.Applied_Data_Science_Capstone)      		| WIP       | Aiming to finish by the 20th 		 |
+| Sr.No|               Course               			 							|
+|:----:|:---------------------------------------------------------------------------|
+| 1.   | [What is Data Science?](1.What_is_Data_Science) 							|
+| 2.   | [Tools for Data Science](2.Tools_for_Data_Science)							|
+| 3.   | [Data Science Methodology](3.Data_Science_Methodology) 					|
+| 4.   | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)     	|
+| 5.   | [Databases and SQL for Data Science](5.Databases_and_SQL_for_Data_Science) |
+| 6.   | [Data Analysis with Python](6.Data_Analysis_with_Python)          			|
+| 7.   | [Data Visualization with Python](7.Data_Visualization_with_Python)    		|
+| 8.   | [Machine Learning with Python](8.Machine_Learning_with_Python)       		|
+| 9.   | [Applied Data Science Capstone](9.Applied_Data_Science_Capstone)      		|
 
 <br>
 
@@ -65,7 +65,8 @@ Read more below:
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
 - [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
 - [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
-- [Foursquare API](https://developer.foursquare.com) : Foursquare API developer credentials portal
+- [Foursquare API](https://developer.foursquare.com) : Foursquare API developer credentials portal.
+- [ArcGis](https://developers.arcgis.com/labs/python/search-for-an-address/) : Search for an address with Python.
 
 #### Useful Functions
 
@@ -77,6 +78,7 @@ Read more below:
 - [RStudio package: Shiny](https://shiny.rstudio.com/)
 - [RStudio package: leaflet](https://rstudio.github.io/leaflet/)
 - [Importing JSON and HTML into pandas](https://www.datacamp.com/community/tutorials/importing-data-into-pandas)
+
 
 #### Useful Resources
 - [End to End Machine learning library](https://e2eml.school/blog.html#skills)
