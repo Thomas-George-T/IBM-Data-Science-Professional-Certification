@@ -59,7 +59,7 @@ Read more below:
 <br>
 
 
-## Helpful Resources
+## Resources
 
 #### Data Science Toolkit
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
