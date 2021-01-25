@@ -45,7 +45,7 @@ Read more below:
 ## Specialization Overview
 
 | Sr. No | Course                                                                     |
-|:------:|:---------------------------------------------------------------------------|
+|:------:|----------------------------------------------------------------------------|
 | 1.     | [What is Data Science?](1.What_is_Data_Science)                            |
 | 2.     | [Tools for Data Science](2.Tools_for_Data_Science)                         |
 | 3.     | [Data Science Methodology](3.Data_Science_Methodology)                     |
