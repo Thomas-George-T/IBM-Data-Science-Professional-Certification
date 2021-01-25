@@ -44,17 +44,17 @@ Read more below:
 
 ## Specialization Overview
 
-| Sr.No|               Course               			 							|
+| Sr.No|               Course               			 							                             |
 |:----:|:---------------------------------------------------------------------------|
-| 1.   | [What is Data Science?](1.What_is_Data_Science) 							|
-| 2.   | [Tools for Data Science](2.Tools_for_Data_Science)							|
-| 3.   | [Data Science Methodology](3.Data_Science_Methodology) 					|
-| 4.   | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)     	|
+| 1.   | [What is Data Science?](1.What_is_Data_Science) 							                    |
+| 2.   | [Tools for Data Science](2.Tools_for_Data_Science)							                  |
+| 3.   | [Data Science Methodology](3.Data_Science_Methodology) 					               |
+| 4.   | [Python for Data Science and AI](4.Python_for_Data_Science_and_AI)     	   |
 | 5.   | [Databases and SQL for Data Science](5.Databases_and_SQL_for_Data_Science) |
-| 6.   | [Data Analysis with Python](6.Data_Analysis_with_Python)          			|
-| 7.   | [Data Visualization with Python](7.Data_Visualization_with_Python)    		|
-| 8.   | [Machine Learning with Python](8.Machine_Learning_with_Python)       		|
-| 9.   | [Applied Data Science Capstone](9.Applied_Data_Science_Capstone)      		|
+| 6.   | [Data Analysis with Python](6.Data_Analysis_with_Python)          			      |
+| 7.   | [Data Visualization with Python](7.Data_Visualization_with_Python)    		   |
+| 8.   | [Machine Learning with Python](8.Machine_Learning_with_Python)       		    |
+| 9.   | [Applied Data Science Capstone](9.Applied_Data_Science_Capstone)      		   |
 
 <br>
 
