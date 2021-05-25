@@ -60,6 +60,9 @@ Read more below:
 
 ## Resources
 
+#### Capstone
+- [A Tale of Two Cities: Clustering neighborhoods of London and Paris](https://medium.com/analytics-vidhya/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
+
 #### Data Science Toolkit
 - [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
 - [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
