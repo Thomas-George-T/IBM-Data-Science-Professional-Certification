@@ -64,7 +64,7 @@ Read more below:
 - [A Tale of Two Cities: Clustering neighborhoods of London and Paris](https://medium.com/analytics-vidhya/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
 
 #### Data Science Toolkit
-- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio etc. in your browser.
+- [IBM Developer Skills Network](https://labs.cognitiveclass.ai/login?logout=true) : Data Science toolkit including JupyterLab, JupterNotebook, Apache Zeppelin, RStudio, etc. in your browser.
 - [Google Colab](https://colab.research.google.com) : Practice Python in your browser and execute Machine learning Models with Google Colab.
 - [Online Notebook viewer](https://nbviewer.jupyter.org) : View jupyter notebooks online.
 - [Foursquare API](https://developer.foursquare.com) : Foursquare API developer credentials portal.
@@ -87,6 +87,7 @@ Read more below:
 - [Beginning with Exploratory data Analysis (EDA)](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
 - [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
 - [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)
+- [Understanding K-Means Clustering](https://www.appliedaicourse.com/blog/k-means-clustering/)
 
 #### Building Portfolio and Real world Experience
 - [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
