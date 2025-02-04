@@ -88,6 +88,7 @@ Read more below:
 - [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
 - [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)
 - [Understanding K-Means Clustering](https://www.appliedaicourse.com/blog/k-means-clustering/)
+- [Exploratory Data Analysis: Techniques, Best Practices, and Benefits](https://www.appliedaicourse.com/blog/exploratory-data-analysis-techniques/)
 
 #### Building Portfolio and Real world Experience
 - [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
